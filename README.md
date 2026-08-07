@@ -1,4 +1,7 @@
 # Boltzmann sampling via normalizing flows
+# Boltzmann sampling via normalizing flows
+
+**Authors:** Zia Ur Rehman & Gero Friesecke (Technical University of Munich)
 
 This repository contains the code for our TMLR 2026 paper.
 **"Sampling Boltzmann distributions via normalizing flow approximation of transport maps."**
